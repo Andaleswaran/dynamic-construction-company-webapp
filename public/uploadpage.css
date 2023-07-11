@@ -1,0 +1,85 @@
+.banner{
+    width:100%;
+    height:100%;
+   
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(upimage8.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+   
+    
+}
+*{
+    margin:0;
+}
+
+
+.company{
+    color:white;
+    font-family:cursive;
+    text-shadow:0px 0px 20px yellow;
+    
+    
+}
+
+#file{
+    border-style:none;
+    font-size:21px;
+    color:black;
+    font-family:Georgia;
+    background-color: #00FFD1;
+    padding:10px;
+    text-align:center;
+    border-radius:30px;
+    opacity:0.6;
+    box-shadow:0px 0px 10px #00FFD1;
+    border-bottom:solid;
+    cursor:pointer;
+    position:relative;
+    left:930px;
+    bottom:60px;
+    width:300px;
+    
+}
+#file:hover{
+    box-shadow:0px 0px 20px #00FFD1;
+    border-right:solid;
+}
+#submit{
+    border-style:none;
+    font-size:21px;
+    color:black;
+    font-family:Georgia;
+    background-color: #F0FF42;
+    padding:10px;
+    text-align:center;
+    border-radius:30px;
+    opacity:0.6;
+    box-shadow:0px 0px 10px #F0FF42;
+    border-bottom:solid;
+    cursor:pointer;
+    position:relative;
+    left:930px;
+    bottom:60px;
+}
+#submit:hover{
+    box-shadow:0px 0px 20px #F0FF42;
+    border-right:solid;
+}
+
+.quote1{
+    color:white;
+    text-shadow: 0px 0px 20px yellow;
+    font-family:cursive;
+    width:700px;
+    border: 15px green;
+    padding: 17px;
+    margin: 20px;
+    text-align: center;
+    position:relative;
+    top:200px;
+    left:330px;
+}
+
+  
+

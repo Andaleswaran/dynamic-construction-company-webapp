@@ -1,0 +1,208 @@
+.banner{
+    width:100%;
+    height:100%;
+   
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(homepic.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+   
+    
+}
+*{
+    margin:0;
+}
+
+
+.card {
+    
+    width:310px;
+    height:500px;
+    margin:auto;
+    text-align: center;
+    position:relative;
+    top:85px;
+    bottom:100px;
+    background-color:black;
+    box-shadow:0px 0px 10px blue;
+    
+   
+  }
+
+  .card1 {
+    
+    width:310px;
+    height:500px;
+    text-align:center;
+    position:relative;
+    bottom:418px;
+    left:39px;
+    
+    background-color:black;
+    box-shadow:0px 0px 20px red;
+    
+    
+   
+  }
+
+  .card2 {
+    
+    width:310px;
+    height:500px;
+    text-align:center;
+    position:relative;
+    bottom:917px;
+    left:1000px;
+    background-color:black;
+    box-shadow:0px 0px 20px green;
+    
+   
+  }
+  
+  .title {
+    color:white;
+    font-size: 30px;
+    font-family:'Arial Narrow';
+    position: relative;
+    top:20px;
+
+    
+  }
+
+  img{
+    border-radius: 100px;
+    position: relative;
+    top:30px;
+    height:150px;
+    width:150px;
+    
+  }
+  
+  .b {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color:blue;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    font-size: 20px;
+    position:relative;
+    top:-41px;
+    
+    
+  }
+
+  .b1 {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color:red;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    font-size: 20px;
+    position:relative;
+    top:-12px;
+    
+    
+  }
+
+  .b2 {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color:green;
+    text-align: center;
+    cursor: pointer;
+    width: 300px;
+    font-size: 20px;
+    position:relative;
+    top:-50px;
+    
+  }
+  
+  a {
+    
+    font-size: 30px;
+    position: relative;
+    top:70px;
+   
+  }
+
+  .title1{
+    position:relative;
+    top:40px;
+    color:white;
+    font-family:'Arial Narrow';
+    font-size:30px;
+    
+  }
+  
+  
+  
+
+  #p1{
+    color:white;
+    font-size:27px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-shadow:0px 0px 50px red;
+    box-shadow:0px 0px 15px red;
+  }
+  #p2{
+    color:white;
+    font-size:27px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-shadow:0px 0px 50px blue;
+    box-shadow:0px 0px 15px blue;
+  }
+  #p3{
+    color:white;
+    font-size:27px;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    text-shadow:0px 0px 50px green;
+    box-shadow:0px 0px 15px green;
+  }
+
+  .s1{
+    color:green;
+  }
+
+  .s2{
+    color:red;
+  }
+
+  .s3{
+    color:blue;
+  }
+
+  .s1:hover{
+    
+    text-shadow:0px 0px 10px green;
+    box-shadow: 0px 0px 10px yellow; 
+  }
+
+  .s2:hover{
+    text-shadow:0px 0px 10px red;
+    box-shadow: 0px 0px 10px yellow; 
+  }
+
+  .s3:hover{
+    text-shadow:0px 0px 10px blue;
+    box-shadow: 0px 0px 10px yellow; 
+  }
+
+  #ul1{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #ul2{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
